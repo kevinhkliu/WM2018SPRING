@@ -21,10 +21,20 @@ By using Facebook graph api, we crawl almost 1500 posts and 74705 comments in Ko
 ```
 pip install textrank4zh --user
 ```
+
+## posts topic top words example
+* posts in Ko's Facebook fan page
+<img src="https://github.com/kevinhkliu/WM2018SPRING/blob/master/final%20project/img/kp_post_topic_words.png" width=620> 
+
+* posts in Yao's Facebook fan page
+<img src="https://github.com/kevinhkliu/WM2018SPRING/blob/master/final%20project/img/yao_post_topic_words.png" width=620> 
+
 ## Demo website  
 1. [WRM2018 final](https://boiling-ravine-49392.herokuapp.com/post.html)
 
 ## Reference
+0. [DoctorKoWJ Facebook fan page](https://www.facebook.com/DoctorKoWJ/)
+0. [Yao Facebook fan page](https://www.facebook.com/YaoTurningTaipei/)
 1. [Facebook crawler code link](https://github.com/b02902131/FBcrawler)
 2. [TextRank4ZH](https://github.com/letiantian/TextRank4ZH)
 3. [如何用Python从海量文本抽取主题](https://www.jianshu.com/p/fdde9fc03f94)
