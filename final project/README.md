@@ -22,11 +22,11 @@ By using Facebook graph api, we crawl almost 1500 posts and 74705 comments in Ko
 pip install textrank4zh --user
 ```
 
-## posts topic top words example
-* posts in Ko's Facebook fan page
+## Posts topic top words example
+* Ko's Facebook fan page
 
 | Topic index   | topic top words  |
-| :------------ | :---------------: |
+| :------------: | :--------------- |
 | Topic 01      | 公民, 參與, 顧問, 報名, 開放, 全民, 市民, 政府 |
 | Topic 02      | 世大運, 比賽, 臺灣, 回家, 選手, 世界, 這次, 加油 |
 | Topic 03      | 台北, 專輯, 片花, 一分鐘, 限量, 募款, 獲贈, 專案 | 
@@ -44,10 +44,10 @@ pip install textrank4zh --user
 | Topic 16      | 計畫, 市政, 報告, 會議, 行動, 南港, 改變, 門戶 |
 | Topic 16      | 醫院, 醫療, 台大, 醫師, 病人, 聯合, 病房, 工作 |
 
-* posts in Yao's Facebook fan page
+* Yao's Facebook fan page
 
 | Topic index   | topic top words  |
-| :------------ | :---------------: |
+| :------------: | :--------------- |
 | Topic 01      | 民調, 支持, 電話, 台北市長, 唯一, 民進黨, 姚文智, 階段 |
 | Topic 02      | 機場, 松山, 桃園, 廢除, 松機, 跑道, 遷移, 桃機 |
 | Topic 03      | 城市, 台北, 論壇, 國際, 未來, 改造, 願景, 翻轉 | 
