@@ -16,6 +16,8 @@ bash ./compile.sh
 For training:
 ```
 bash ./compile.sh [-R] [-b] -i [query-file] -o [ranked-list] -m [model-dir] -d NTCIR-dir
+```
+```
 -r 
 	If specified, turn on the relevance feedback on you program.
 -b 
