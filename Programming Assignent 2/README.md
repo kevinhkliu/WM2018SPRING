@@ -1,4 +1,4 @@
-# Unsupervised text classification in Persian using Probabilistic Latent Semantic Analysis
+# Unsupervised text classification using Probabilistic Latent Semantic Analysis
 
 ## Task description
 Given 20 News Groups and some seed words of each class, and your task is to classify documents according to the given seed words.
