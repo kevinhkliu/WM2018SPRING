@@ -1,7 +1,7 @@
 # Unsupervised text classification in Persian using Probabilistic Latent Semantic Analysis
 
 ## Task description
-We will give you a subset of 20 News Groups and some seed words of each class, and your task is to classify documents according to the given seed words
+Given 20 News Groups and some seed words of each class, and your task is to classify documents according to the given seed words.
 ## Dependency
 `Python3`  `numpy` `pandas` `string` `re`
 ## Usage
@@ -12,6 +12,8 @@ bash ./compile.sh
 For training:
 ```
 bash ./compile.sh [-e] [-b] -d [doc.csv file path] -g [group.csv file path] -o [result file path]
+```
+```
 -e 
 	If specified, use the dictionary you made to classify the document
 -b 
